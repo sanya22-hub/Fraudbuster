@@ -3,12 +3,6 @@
 
 Goal:To explore, model, and evaluate fraud detection on highly imbalanced transactions.
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue.svg">
-  <img alt="Build" src="https://img.shields.io/badge/build-passing-brightgreen.svg">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-black.svg">
-</p>
-
 ---
 
 ## Highlights
